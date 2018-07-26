@@ -1,7 +1,7 @@
 {
-  "name": "awesomeslashcommand",
+  "name": "8ball",
   "version": "1.0.0",
-  "description": "The awesomest slash command evar.",
+  "description": "Ask a question of the magic 8 ball",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
